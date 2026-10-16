@@ -8,8 +8,8 @@ from pydantic import BaseModel
 import uvicorn
 
 # --- CONFIGURATION ---
-# REPLACE THIS WITH YOUR NEW KEY!
-API_KEY = "AIzaSyDusmaRBFicQZ8cv20jnBntWHTdlGbB7Fo" 
+
+API_KEY = "" 
 MODEL_NAME = "gemma-3-27b-it"
 DB_PATH = "./grammar_db_flash"
 
